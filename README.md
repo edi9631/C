@@ -22,8 +22,8 @@ int main() {
    
    perimeter=2*(a+b);
 
-   printf("\nArea of Rectangle : %d", area);
-   printf("\nPerimeter of Rectangle : %d", perimeter);
+   printf("\n Лице на Правоъгълник : %d", area);
+   printf("\n Периметър на Правоъгълник : %d", perimeter);
 
  
    return (0);
